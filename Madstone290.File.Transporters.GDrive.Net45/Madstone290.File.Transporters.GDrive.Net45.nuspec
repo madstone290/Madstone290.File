@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+	<metadata>
+		<id>Madstone.File.Transporters.GDrive.Net45</id>
+		<version>1.0.0</version>
+		<title>Google drive file transporter</title>
+		<authors>Madstone290</authors>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<license type="expression">MIT</license>
+		<projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+		<iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
+		<description>Transport files using google drive. 구글 드라이브를 사용하여 파일을 전송합니다.</description>
+		<releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+		<copyright>Madstone290</copyright>
+		<tags>File GoogleDrive Google Drive Transport Transfer</tags>
+		<dependencies>
+			<dependency id="Google.Apis.Drive.v3" version="1.55.0.2502" />
+		</dependencies>
+	</metadata>
+</package>

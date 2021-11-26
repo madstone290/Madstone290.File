@@ -1,0 +1,22 @@
+#Visual studio 설정 파일
+.vs
+*.csproj.user
+
+#라이센스 파일
+*.licx
+*.bak
+
+#Visual studio bin, obj, packages 폴더
+bin
+obj
+packages
+
+#IIS Debug 진행 시 LogHistory 폴더가 프로젝트내에 생성된다.
+LogHistory/
+EasyFactory.API/Logs/
+
+#게시프로필
+PublishProfiles/
+
+
+ 
